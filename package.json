@@ -8,6 +8,11 @@
     "react-native",
     "caller-id"
   ],
+  "files": [
+    "android/",
+    "ios/",
+    "RNCallerId.podspec"
+  ],
   "author": {
     "name": "Hien Phung",
     "email": "hienphungkhanh@gmail.com"
