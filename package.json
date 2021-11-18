@@ -21,8 +21,5 @@
     "type": "git",
     "url": "https://github.com/mguellsegarra/react-native-caller-id"
   },
-  "license": "MIT",
-  "peerDependencies": {
-    "react-native": "^0.41.2"
-  }
+  "license": "MIT"
 }
